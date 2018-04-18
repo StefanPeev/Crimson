@@ -64,3 +64,7 @@ Contributions to the project in any form are very much welcome, and indeed encou
 * Streamlining the build process from SFD (or UFO) to binary files.
 
 I'm looking forward to your pull requests!
+
+Examples
+--------
+See [images](/images/) and [Gallery](/images/Gallery.md).
